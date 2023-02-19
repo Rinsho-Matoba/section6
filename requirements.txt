@@ -1,0 +1,8 @@
+streamlit==1.18.1
+os
+sys
+time
+json
+ImageDraw
+ImageFont
+
